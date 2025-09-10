@@ -1,6 +1,6 @@
 #  Leonardo Resille
 
-**`Desenvolvedor Junior`**
+**``Desenvolvedor Junior``**
 Me chamo Leonardo Resille tenho 20anos e estou começando na área, cursando atualmente na universidade unicesumar.
 
 ### 🤖 Linguagens e Tecnologias
